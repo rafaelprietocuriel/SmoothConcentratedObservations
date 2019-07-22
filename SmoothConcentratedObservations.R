@@ -159,4 +159,3 @@ polygon(c(Result$EvalTime, rev(Result$EvalTime)),
         col = rgb(.1, .2, .7, .4))
 points(Result$EvalTime, Result$ObsMean, 
        type = "l", col = 2, lwd = 4)
-
